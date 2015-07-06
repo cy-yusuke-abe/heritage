@@ -1,0 +1,10 @@
+.idea/*
+.DS_Store
+*.class
+*.jar
+*.cache
+project/target/*
+project/project/target/*
+target/*
+out/*
+
