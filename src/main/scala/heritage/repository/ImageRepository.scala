@@ -17,7 +17,7 @@ class ImageRepository {
 
   def all:String = {
     query { session =>
-      session.query("//image").execute()
+      session.query("image").execute()
     }
   }
 
